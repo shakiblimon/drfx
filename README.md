@@ -8,4 +8,4 @@
 </br>
 </br>
 
-<img src ="/uploads/87772e09a5160a2ee2d30e61323808da/image.png">
+<img src ="/uploads/af3c73e05fedbfebb3853011c635f7ef/Screenshot_2018-07-19_Login___Django_REST_framework.png">
